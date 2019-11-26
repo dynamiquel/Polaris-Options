@@ -1,2 +1,2 @@
 # Polaris
-Game SDK
+Game SDK that provides essential features to Unity.
