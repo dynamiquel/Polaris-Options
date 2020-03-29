@@ -9,7 +9,7 @@ namespace Polaris.Options
     public static class OptionsManager
     {
         private static string _defaultFileLocation =
-            Path.Combine(UnityEngine.Application.persistentDataPath, "Options", "useroptions.yml");
+            Path.Combine(UnityEngine.Application.persistentDataPath, "Options.yml");
         public static string DefaultFileLocation
         {
             get => _defaultFileLocation;
