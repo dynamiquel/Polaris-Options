@@ -13,10 +13,10 @@ View the **[wiki](https://github.com/dynamiquel/Polaris-Options/wiki)** to learn
 ## Prerequisites
 <ul>
   <li>Unity 2018.4 or later (only depends on Unity for logging and application path; can easily modify to work with any C# application)</li>
-  <li>Polaris.IO (not yet released; modify 'OptionsParser.cs' to work with your own custom YAML/JSON serialiser and deserialiser)</li>
+  <li>Polaris.IO (not yet released; modify 'OptionsParser.cs' to work with your own custom YAML/JSON serialiser and deserialiser, or use the Standalone version)</li>
 </ul>
 
 ## Adding to your Unity project
 <ol>
-  <li>Download as a ZIP file (or go to <a href="https://github.com/dynamiquel/Polaris-Options/releases">Releases</a> to download a previous version).</li>
+  <li>Go to the <a href="https://github.com/dynamiquel/Polaris-Options/releases/latest">latest release</a> and download the desired version.</li>
   <li>Extract the <i><b>Polaris</b></i> folder to your project's <i><b>Assets > Plugins</b></i> folder.</li>
