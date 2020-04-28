@@ -11,12 +11,9 @@ If you are coming from **[Unity PlayerPrefs](https://docs.unity3d.com/ScriptRefe
 View the **[wiki](https://github.com/dynamiquel/Polaris-Options/wiki)** to learn more.
 
 ## Prerequisites
-<ul>
-  <li>Unity 2018.4 or later (only depends on Unity for logging and application path; can easily modify to work with any C# application)</li>
-  <li>Polaris.IO (not yet released; modify 'OptionsParser.cs' to work with your own custom YAML/JSON serialiser and deserialiser, or use the Standalone version)</li>
-</ul>
+- Unity 2018.4 or later (only depends on Unity for logging and application path; can easily modify to work with any C# application)
+- [Polaris IO](https://github.com/dynamiquel/Polaris-IO/releases/latest) (can edit Options.OptionsParser to use your own serialiser/deserialiser)
 
 ## Adding to your Unity project
-<ol>
-  <li>Go to the <a href="https://github.com/dynamiquel/Polaris-Options/releases/latest">latest release</a> and download the desired version.</li>
-  <li>Extract the <i><b>Polaris</b></i> folder to your project's <i><b>Assets > Plugins</b></i> folder.</li>
+1. Go to the <a href="https://github.com/dynamiquel/Polaris-Options/releases/latest">latest release</a> and download the desired version.
+2. Extract the **Plugins** folder to your project's **Assets** folder.
