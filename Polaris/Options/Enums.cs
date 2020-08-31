@@ -23,24 +23,24 @@
 
 namespace Polaris.Options
 {
-    public enum SetValueOutput
+    public enum SetValueOutput : byte
     {
         Failed = 0,
         SetCreated = 1,
         SetReplaced = 2
     }
 
-    public enum DeleteOutput
+    public enum DeleteOutput : byte
     {
         None = 0,
         All = 1,
         Some = 2
     }
 
-    public enum OptionFound
+    public enum OptionFound : byte
     {
-        No = -1,
-        OnlyDictionaryFound = 0,
-        Yes = 1
+        No = 0,
+        OnlyDictionaryFound = 1,
+        Yes = 2
     }
 }

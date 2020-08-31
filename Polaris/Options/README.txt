@@ -1,8 +1,14 @@
-Polaris-Options 2004
+Polaris-Options 2009
 https://github.com/dynamiquel/Polaris-Options
 
 ADDING TO YOUR UNITY PROJECT:
-    - Extract the 'Polaris' folder to your project's 'Assets/Plugins' folder.
+    - Extract the 'Plugins' folder to your project's 'Assets' folder.
+
+NOTES:
+If using YamlDotNet as the serialiser/deserialiser, values may not deserialise correctly
+due to the dynamic structure of Polaris-Options. If this is the case, changes must be made
+to the serialisation/deserialisation process.
+Read 'https://github.com/dynamiquel/Polaris-IO/issues/3' for more info.
 
 LICENSE:
     Copyright (c) 2020 dynamiquel and contributors
