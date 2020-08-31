@@ -1,4 +1,7 @@
 # Polaris Options
+[![Releases](https://img.shields.io/github/release/dynamiquel/Polaris-Options?include_prereleases)](https://github.com/dynamiquel/Polaris-Options/releases)
+![Size](https://img.shields.io/github/languages/code-size/dynamiquel/Polaris-Options)
+
 Polaris is a Game SDK for Unity that provides almost essential features. These features make sure your development time stays in what makes your game special.
 
 ## Introduction
@@ -16,4 +19,4 @@ View the **[wiki](https://github.com/dynamiquel/Polaris-Options/wiki)** to learn
 
 ## Adding to your Unity project
 1. Go to the <a href="https://github.com/dynamiquel/Polaris-Options/releases/latest">latest release</a> and download the desired version.
-2. Extract the **Plugins** folder to your project's **Assets** folder.
+2. Import the **.unitypackage** file in Unity. Alternatively, you can also download the source code and put it in your **Assets | Plugins** folder.
