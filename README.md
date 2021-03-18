@@ -11,7 +11,7 @@ It is designed to be a complete replacement for **[Unity PlayerPrefs](https://do
 
 If you are coming from **[Unity PlayerPrefs](https://docs.unity3d.com/ScriptReference/PlayerPrefs.html)**, the syntax is very similar and you should feel at home. However, if you want to come out of your box, you can use Options to do **much more** (it just requires a bit of learning).
 
-View the **[wiki](https://github.com/dynamiquel/Polaris-Options/wiki)** to learn more.
+View the **[wiki](https://app.gitbook.com/@dynamiquel/s/polaris-options/)** to learn more.
 
 ## Prerequisites
 - Unity 2018.4 or later (only depends on Unity for logging and application path; can easily modify to work with any C# application)
